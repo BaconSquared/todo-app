@@ -4,7 +4,7 @@ def get_todos(filepath=FILEPATH):
     """ Read a text file and return the list of
     to-do items.
 
-    :param filepath: Location on disk of the todo list.
+    :param filepath: Location on disk of the to-do list.
     :return: The todos as a list.
     """
     with open(filepath, 'r') as todos_file:
@@ -12,7 +12,7 @@ def get_todos(filepath=FILEPATH):
     return current_todos
 
 def write_todos(todo_list, filepath=FILEPATH):
-    """ Write the todo list into a text file.
+    """ Write the to-do list into a text file.
     :param todo_list: List of todos
     :param filepath: Location on disk of where to write todos
     :return: None
