@@ -1,5 +1,6 @@
 Eat a cookie.
-This is a test.
-Make some soup.
-Make some pizza.
-Master Python!
+Buy some groceries.
+Eat some cheese.
+Go outside.
+Go to sleep.
+Wake up.
